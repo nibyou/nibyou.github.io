@@ -2,5 +2,5 @@
 
 # Here is a list of our open-source projects:
 
- ## [bip-39](https://github.com/nibyou/bip-39) 
- ##### BIP 39 Mnemonic List for 10 Languages
+## [bip-39](https://github.com/nibyou/bip-39) 
+##### BIP 39 Mnemonic List for 10 Languages
